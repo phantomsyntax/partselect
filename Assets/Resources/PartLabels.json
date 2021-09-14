@@ -1,0 +1,16 @@
+﻿{
+  "LabelNames": [
+    {"label":"SkyCarBody", "name": "Body"},
+    {"label":"SkyCarBrakeLightsGlow", "name": "Brake Lights (Glow)"},
+    {"label":"SkyCarComponents", "name": "Components"},
+    {"label":"SkyCarMudGuardFrontRight", "name": "Front Right Mudguard"},
+    {"label":"SkyCarHeadLightsGlow", "name": "Headlights"},
+    {"label":"SkyCarMudGuardFrontLeft", "name": "Front Left Mudguard"},
+    {"label":"SkyCarSuspensionFrontLeft", "name": "Front Left Suspension"},
+    {"label":"SkyCarSuspensionFrontRight", "name": "Front Right Suspension"},
+    {"label":"SkyCarWheelFrontLeft", "name": "Front Left Wheel"},
+    {"label":"SkyCarWheelFrontRight", "name": "Front Right Wheel"},
+    {"label":"SkyCarWheelRearLeft", "name": "Rear Left Wheel"},
+    {"label":"SkyCarWheelRearRight", "name": "Rear Right Wheel"}
+  ]
+}
